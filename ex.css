@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(236.85deg, #8a4b00 20.26%, #ff9a00 96.03%);
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  background-color: #fffafa;
+  color: #1c1c1c;
+  margin: 45px;
+  border-radius: 25px;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  padding: 35px;
+}
+
+button {
+  margin-left: 58px;
+  margin-top: 20px;
+  font-size: 20px;
+}
